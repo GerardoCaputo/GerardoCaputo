@@ -36,5 +36,5 @@
   ## *Follow me*        
 
    
-   Instagram :briefcase:    |              ![IG](Graphics/IG.jpeg) (https://www.instagram.com/()
+   Instagram :briefcase:    |              ![IG](Graphics/IG.jpeg) (https://www.instagram.com)
 
