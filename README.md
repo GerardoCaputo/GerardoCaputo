@@ -37,3 +37,7 @@
 
    
    [<img src="Graphics/IG.jpeg" width="32">](https://www.instagram.com/)
+
+   [<img src="Graphics/th.jpeg" width="32">](https://twitter.com/)
+
+   [<img src="Graphics/th (1).jpeg" width="32">](https://es.linkedin.com/)
