@@ -2,9 +2,9 @@
 
 
 
-## *ABOUT ME*
+## *ABOUT ME* ///
 
-///
+
 
 :city_sunset:            Architect 
 
@@ -22,7 +22,7 @@
 
 
 
-## *Interests*
+## *Interests*.  ///
       *Architecture
       *Design
       *Urbanism strategies
@@ -33,7 +33,7 @@
 
 
 
-  ## *Follow me*        
+  ## *Follow me*  ///    
 
    
    [<img src="Graphics/IG.jpeg" width="32">](https://www.instagram.com/). /// For images and social life
