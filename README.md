@@ -3,11 +3,13 @@
 
 ///
 
-Architect from Canary Islands   
+:city_sunset:            Architect 
+:round_pushpin: Canary Islands   
 
-:city_sunset:
 
-Studying Teacher's Masters at @ULL 
+
+
+:ledger: Studying Teacher's Masters at @ULL 
 
 ![BrutalismGif](Graphics/upload-363dcaa0-d77a-11e6-8101-3d4e0ab58d00.jpeg)
 
