@@ -30,7 +30,11 @@
       *Audiovisual productions
       *Fashion design
 
-   
-          
+
+
+
+  ## *Follow me*        
+
+![IG](Graphics/IG.jpeg)   (https://www.instagram.com/()
 
 
