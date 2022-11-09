@@ -22,7 +22,7 @@
 
 
 
-## *Interests*.  ///
+## *Interests*  ///
       *Architecture
       *Design
       *Urbanism strategies
