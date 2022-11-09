@@ -5,7 +5,7 @@
 
 Architect from Canary Islands   
 
-:sol:
+:city_sunset:
 
 Studying Teacher's Masters at @ULL 
 
