@@ -3,7 +3,9 @@
 
 ///
 
-Architect from Canary Islands   :sun: :build:
+Architect from Canary Islands   
+
+:sun:
 
 Studying Teacher's Masters at @ULL 
 
