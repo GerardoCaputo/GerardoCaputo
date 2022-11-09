@@ -36,4 +36,4 @@
   ## *Follow me*        
 
    
-   Instagram  ![IG](Graphics/IG.jpeg)(https://www.instagram.com/) 
+   [<img src="Graphics/IG.jpeg" width="32">](https://www.instagram.com/)
